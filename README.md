@@ -5,4 +5,5 @@
 - Implements `LocationsViewController`
 - Placeholders for `PhotoMapViewController` and `FullImageViewController`
 
-    
+by: Xiaowen Huang 
+2017
